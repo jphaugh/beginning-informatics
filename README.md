@@ -1,2 +1,2 @@
-# beginning-informatics
-Beginning bioinformatics course code
+Jimmy Haugh + 1002303230 + BIOL-5340-001
+
